@@ -1,4 +1,4 @@
-# Face Detection OpenCV (cv2)
+# Face Detection Python OpenCV (py cv2)
 
 **Tiny Python program to capture the image and video, and detect faces (in real time) powered by OpenCV.**
 
